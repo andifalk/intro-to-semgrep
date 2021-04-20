@@ -1,0 +1,23 @@
+{
+  "name": "OWASP Juice Shop",
+  "description": "Probably the most modern and sophisticated insecure web application",
+  "keywords": [
+    "web security",
+    "web application security",
+    "webappsec",
+    "owasp",
+    "pentest",
+    "pentesting",
+    "security",
+    "vulnerable",
+    "vulnerability",
+    "broken",
+    "bodgeit",
+    "ctf",
+    "capture the flag",
+    "awareness"
+  ],
+  "website": "https://owasp-juice.shop",
+  "repository": "https://github.com/bkimminich/juice-shop",
+  "logo": "https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png"
+}
