@@ -1,3 +1,7 @@
+This is a fork of Juice Shop being used for Semgrep training. Major thanks to the creators and maintainers!
+
+-------------
+
 # ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
